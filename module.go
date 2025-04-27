@@ -11,7 +11,7 @@ import (
 
 	"go.uber.org/zap"
 
-	client "github.com/code-be-like/caddy-handler-plugin/client"
+	client "github.com/code-be-like/caddy-handler/client"
 )
 
 const DirectiveName = "handler_plugin"

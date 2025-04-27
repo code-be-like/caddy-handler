@@ -3,7 +3,7 @@ package server
 import (
 	"net/http"
 
-	"github.com/code-be-like/caddy-handler-plugin/shared"
+	"github.com/code-be-like/caddy-handler/shared"
 	"github.com/hashicorp/go-hclog"
 	"github.com/hashicorp/go-plugin"
 )

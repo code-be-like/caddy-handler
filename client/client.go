@@ -6,7 +6,7 @@ import (
 
 	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
 
-	"github.com/code-be-like/caddy-handler-plugin/shared"
+	"github.com/code-be-like/caddy-handler/shared"
 	"github.com/hashicorp/go-plugin"
 )
 

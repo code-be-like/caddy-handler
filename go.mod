@@ -1,4 +1,4 @@
-module github.com/code-be-like/caddy-handler-plugin
+module github.com/code-be-like/caddy-handler
 
 go 1.22.1
 
